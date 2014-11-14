@@ -9,6 +9,8 @@ var Hello = React.createClass({
       <ul>
         <li><a href="#/hello/world">Hello World</a></li>
         <li><a href="#/colors">Colors</a></li>
+				<li><a href="#/students">Student Admin</a></li>
+        <li><a href="#/gameoflife">Game Of Life</a></li>
       </ul>
     </div>
   },
